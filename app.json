@@ -1,9 +1,9 @@
 {
-    "name": "Rudhra",
-    "description": "Rudhra - Whatsapp Bot",
-    "logo": "https://i.imgur.com/6p3x1x6.jpeg",
+    "name": "AxA"
+    "description": "AXA Whatsapp Bot
+    "logo": "https://i.imgur.com/iEilTNe.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/PrinceRudh/Rudhra",
+    "repository": "https://github.com/MrAxenzo/AxA-Bot
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
