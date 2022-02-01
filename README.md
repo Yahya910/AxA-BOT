@@ -1,24 +1,20 @@
-<div align="center">
 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=F33A6A&lines=𝙒𝙀𝙇𝘾𝙊𝙈𝙀+𝙏𝙊+𝙍𝙐𝘿𝙃𝙍𝘼+𝙒𝘼+𝘽𝙊𝙏+𝙍𝙀𝙋𝙊.;𝘾𝙍𝙀𝘼𝙏𝙀𝘿+𝘽𝙔+𝙋𝙍𝙄𝙉𝘾𝙀+𝙍𝙐𝘿𝙃;𝙏𝙃𝙄𝙎+𝙄𝙎+𝘼+𝘽𝙂𝙈+𝙎𝙏𝙄𝘾𝙆𝙀𝙍+𝘽𝙊𝙏;𝙒𝙄𝙏𝙃+𝙈𝙊𝙍𝙀+𝙁𝙀𝘼𝙏𝙐𝙍𝙀𝙎;𝙏𝙃𝘼𝙉𝙆𝙎+𝙁𝙊𝙍+𝙑𝙄𝙎𝙄𝙏𝙄𝙉𝙂+𝙊𝙐𝙍+𝙂𝙄𝙏)](https://git.io/typing-svg)
 
- </a>
-</p>
+----
+
 <div align="center">
-  <img border-radius: 15px src="https://i.imgur.com/6p3x1x6.jpeg" width="200" height="200"/>
-  <p align="center">
-<a href="#"><img title="Rudhra" src="https://img.shields.io/badge/Rudhra-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
-</p>
-  <p align="center">
-<a href="https://github.com/PrinceRudh"><img title="Author" src="https://img.shields.io/badge/Author-PrinceRudh/Rudhra?color=red&style=for-the-badge&logo=whatsapp"></a>
+  <img src="https://i.imgur.com/iEilTNe.jpeg" width="200" height="200">
+  
+  <a  href="#"><img title="AxA-BOT" src="https://img.shields.io/badge/AxA-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/PrinceRudh">PrinceRudh</a> to make it public
-    <br>
-       | © |
-        Reserved |
-    <br> 
+Project created by <a href="https://github.com/MrAxenzo">AXENZO</a> to make it public
+  <br>
+      | © |
+       Reserved |
+   <br>
 </p>
 
 ----
