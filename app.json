@@ -9,7 +9,7 @@
     "stack": "container",
     "env": {
         "CONNECTION_CODE": {
-            "description": "Asena session changed! Type your Rudhra code here.",
+            "description": "Asena session changed! Type your Axabot code here.",
             "required": true
         },
         "SUDO": {
@@ -141,7 +141,7 @@
         "ALIVE_MESSAGE": {
             "description": "Customizable Alive Message! Use => default, to change back.",
             "required": false,
-            "value": "Enikk Jeevan Unde 😝"
+            "value": "╔══╗╔╗─╔══╗╔╗─╔╗╔═╗ ║╔╗║║║─╚║║╝║╚╦╝║║╦╝ ║╠╣║║╚╗╔║║╗╚╗║╔╝║╩╗ ╚╝╚╝╚═╝╚══╝─╚═╝─╚═╝\n\nType .list  .help  .menu for commands\n\n©AXA"
         },
         "BAN_MESSAGE": {
             "description": "Customizable Ban Message! Use => default, to change back.",
@@ -177,10 +177,6 @@
             "description": "Gan Style eklentisi için resim bağlantısı yazın. Type image link for Gan Style plugin.",
             "required": true,
             "value": "https://i.hizliresim.com/loUtAb.jpg"
-        },
-        "STICKER_PACKNAME": {
-            "description": "Sticker pack name,author",
-            "value": "ᴘʀɪɴᴄᴇʀᴜᴅʜ"
         },
         "NO_ONLINE": {
             "description": "Çevrimiçi görünmek istemiyorsanız true yazın. Type true if you don't want to appear online.",
