@@ -1,14 +1,14 @@
 {
-  "name": "Rudhra-Bot",
+  "name": "AxA-Bot",
   "version": "1.0.0",
-  "description": "Rudhra whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
+  "description": "AxA whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
   "main": "./Rudhra/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PrinceRudh/Rudhra.git"
+    "url": "git+https://github.com/MrAxenzo/AXA-BOT.git"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "Prince Rudh / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/PrinceRudh/Rudhra/issues"
+    "url": "https://github.com/MrAxenzo/AXA-BOT/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
