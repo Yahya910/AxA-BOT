@@ -19,17 +19,6 @@ Project created by <a href="https://github.com/MrAxenzo">AXENZO</a> to make it p
 
 ----
 
-  <p align="center">
-  <a href="httsp://github.com/PrinceRudh/Rudhra">
-    <img src="https://img.shields.io/github/repo-size/PrinceRudh/Rudhra?color=green&label=Repo%20total%20size&style=plastic">
-<p align="center">
-<a href="https://github.com/PrinceRudh/followers"><img title="Followers" src="https://img.shields.io/github/followers/PrinceRudh?color=blue&style=flat-square"></a>
-<a href="https://github.com/PrinceRudh/Rudhra/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/PrinceRudh/Rudhra?color=blue&style=flat-square"></a>
-<a href="https://github.com/PrinceRudh/Rudhra/network/members"><img title="Forks" src="https://img.shields.io/github/forks/PrinceRudh/Rudhra?color=blue&style=flat-square"></a>
-<a href="https://github.com/PrinceRudh/Rudhra/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/PrinceRudh/Rudhra?label=Watchers&color=blue&style=flat-square"></a>
-<a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-blue.svg"</a>
-</p>
-
 ## 📢 Guide
 Click WA logo to Join Support Group 👇
     <br>
@@ -55,30 +44,30 @@ If Repl.it not working Try Termux for Qr scanning.Just Copy the Link Below in Te
 bash <(curl -L https://t.ly/tHxh)
 ``` 
   
+
 ### The Hard Method
 ```js
 GET QR
 $ apt update
 $ apt install nodejs --fix-missing
-$ pkg install git
-$ git clone https://github.com/PrinceRudh/Rudhra
-$ cd Rudhra
+$ pkg install git 
+$ git clone  https://github.com/MrAxeno/AxA-BOT
+$ cd  AxA-BOT
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
 $ node qr.js
 ```
-      
+
 ```js
 SETUP
-$ git clone https://github.com/PrinceRudh/Rudhra
-$ cd Rudhra
+$ git clone  https://github.com/MrAxeno/AxA-BOT
+$ cd  AxA-BOT
 $ chmod +x *
 $ npm i
 $ node qr.js
-   // scan the qr using whatsapp web on your phone
+// scan the qr using whatsapp web on your phone
 $ node bot.js
-```
 
 
 ### ⚠️ Warning! 
