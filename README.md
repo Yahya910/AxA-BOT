@@ -68,7 +68,7 @@ $ npm i
 $ node qr.js
 // scan the qr using whatsapp web on your phone
 $ node bot.js
-
+```
 
 ### ⚠️ Warning! 
 ```
