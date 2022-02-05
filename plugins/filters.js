@@ -1,4 +1,4 @@
-/* Copyright (C) 2020 Princerudh.
+/* Copyright (C) 2020 MrAxenzo.
 
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
@@ -117,8 +117,8 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
         if(Config.BGMFILTER){
         let banned = jid.find( Jid => Jid === message.jid);
         if(banned !== undefined) return
-        if (!!message.mention && message.mention[0] == '919895339960@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Mention.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
+        if (!!message.mention && message.mention[0] == '919847475524@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./uploads/Ha.mp3'), MessageType.audio, { mimetype: Mimetype.mp4Audio, quoted : message.data, ptt: true})
         }
 const array = ['pewer','Wait','power','njan','Love','girls','Oh','Sad','Z','Ha','baby','Poda','Dreams','Come','Stay','Tu','Oo','Love u','Nokk','Kittanam','I love you','Nee','Yaa','Miss','Paavam','Mm','Move','Illa','Chi','girl','Money','Dam','Ooo','Seen','Ff','Kozhi','Aval','Piriya','Nanban','kozhi']
 array.map( async (a) => {
@@ -144,8 +144,8 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if(Config.AUTOSTICKER){
     let banned = jid.find( Jid => Jid === message.jid);
     if(banned !== undefined) return
-    if (!!message.mention && message.mention[0] == '919895339960@s.whatsapp.net') {
-await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/Bot.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
+    if (!!message.mention && message.mention[0] == '919847475524@s.whatsapp.net') {
+await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/Mm.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
 const array = ['Aarulle','Aysheri','Ayye','Ayyo','Bot','Da','Eee','Entha','Enthada','Good morning','Good night','Hai','Hi','Hy','Joker','Kurippe','Kurumb','Love','Mm','Ok','Poda','Pova','Power','Prince','Rashmika','Rudhra','Samantha','Save','Sed','Shoo','Smile','Sry','Udayipp','Vaa','Vannu','Vijay','achodaa','ayin','bot','broken','bye','chaya','cute','engane und','ithokke enth','ivan','joker','naanam','onam','paavam','poda','prince','rudhra','sed','sho','song','thalapathy','umma','vijay','༄PʀɪɴᴄEʳᶹᵈʰ࿐' ]
 array.map( async (a) => {
