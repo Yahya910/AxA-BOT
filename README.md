@@ -1,11 +1,10 @@
-
-
 ----
 
 <div align="center">
-  <img src="https://i.imgur.com/iEilTNe.jpeg" width="200" height="200">
+  <img src="https://i.imgur.com/I9ayLnz.jpeg" width="200" height="200">
   
   <a  href="#"><img title="AxA-BOT" src="https://img.shields.io/badge/AxA-BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
+
 
 </p>
 </div>
