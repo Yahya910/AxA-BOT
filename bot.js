@@ -139,7 +139,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Rudhra is working!')
+            chalk.green.bold('✅ AXA is working!')
         );
         await new Promise(r => setTimeout(r, 1100));
 
@@ -164,7 +164,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*🤖𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🤖AXA 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
                 }
             }
             else {
@@ -186,7 +186,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                     })
                 }
                 else {
-                    await conn.sendMessage(conn.user.jid, '*🤖𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🤖AXA 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
                 }
 
             }
@@ -212,7 +212,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                await conn.sendMessage(conn.user.jid, '*🤖𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
+                await conn.sendMessage(conn.user.jid, '*🤖AXA 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
                 }
             }
             else {
@@ -235,7 +235,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                 }
                 else {
 
-                    await conn.sendMessage(conn.user.jid, '*🤖𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
+                    await conn.sendMessage(conn.user.jid, '*🤖AXA 𝐁𝐎𝐓 𝐒𝐓𝐀𝐑𝐓𝐄𝐃🤖*', MessageType.text);
                 }
             }
         }
@@ -383,7 +383,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*⚠️ RUDHRA ERROR FOUND!⚠️*' +
+                                await conn.sendMessage(conn.user.jid, '*⚠️ AXA ERROR FOUND!⚠️*' +
                                     '\n\n*🧞‍♂️ ' + error + '*\n\n```*Subscribe channel to get updates and to remove errors:* https://youtube.com/c/PrinceRudh \n Report errors\njoin with +91 \n https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP``` ' 
                                     , MessageType.text);
                             }
