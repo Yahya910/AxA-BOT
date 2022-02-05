@@ -22,7 +22,7 @@ Project created by <a href="https://github.com/MrAxenzo">AXENZO</a> to make it p
 Click WA logo to Join Support Group 👇
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HVpTaTICeUi2G7hPlUlGUP)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/HK7oEBNhFQzC6q2cYPA3fN)
   <div align="center">
        
   </div>
