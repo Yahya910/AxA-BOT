@@ -1,7 +1,7 @@
 /* coded by Princerudh
 */
 
- const Rudhra = require('../events');
+ const AXA = require('../events');
  const { MessageType, Mimetype } = require('@adiwajshing/baileys');
  const fs = require('fs');
  const ffmpeg = require('fluent-ffmpeg');
@@ -9,7 +9,7 @@
  const Config = require('../config');
 
           var mode = ''
-if (Config.BC == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : RUDHRA BOT'
+if (Config.BC == 'default') mode = 'ᴅᴇᴠᴇʟᴏᴘᴇʀ : AXA BOT'
 
 else mode = 'ғᴏʀᴡᴀʀᴅᴇᴅ ʙʏ ' + Config.BC
 
