@@ -203,7 +203,7 @@
         },
         "sticker": {
             "STICKER_DESC": "AxA It converts your replied photo or video to sticker.",
-            "NEED_REPLY": "*AxA Reply to a photo or video!*",
+            "NEED_REPLY": "* Reply to a photo or video!*",
             "DOWNLOADING": "```OK Wait Ippam Seriyakithra🤠```"
         },
         "system_stats": {
