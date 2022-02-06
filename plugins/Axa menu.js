@@ -25,17 +25,17 @@ asena.addCommand({pattern: 'menu', fromMe: false, desc: Lang.WP}, (async (messag
 ■□■□■□■□■□■□■□■□■□■□
 ♕ *𝙈𝙚𝙙𝙞𝙖 𝘾𝙤𝙢𝙢𝙖𝙣𝙙𝙨* ♕
 
-🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -song <text>
+🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -song <song name>
 🛑𝙐𝙨𝙚➜ Downloads song for you.
 ⚠️.song  baby love
 
-🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -video <yt link>
+🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜ -video <yt video link>
 🛑𝙐𝙨𝙚➜ Downloads video from YouTube link.
 
-🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -insta <link>
+🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -insta <insta media link>
 🛑𝙐𝙨𝙚➜   Downloads content from instagram.
 
-🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -yt<text>
+🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -yt<content>
 🛑𝙐𝙨𝙚➜   Gives you YT links.
 
 🔰𝘾𝙤𝙢𝙢𝙖𝙣𝙙➜  -show <show name>
