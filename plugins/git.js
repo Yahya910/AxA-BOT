@@ -7,13 +7,13 @@ const Lang = Language.getString('wallpaper');
 
 Asena.addCommand({pattern: 'git', fromMe: false, desc: "Gives github link of the bot"}, (async (message, match) => {
 
-    var skl = await axios.get("https://i.imgur.com/6p3x1x6.jpeg", { responseType: 'arraybuffer' })
+    var skl = await axios.get("https://i.imgur.com/I9ayLnz.jpeg", { responseType: 'arraybuffer' })
 
-    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Github* *(setup)* : *https://github.com/Prince-Rudh/Rudhra2.0*
+    await message.sendMessage(Buffer(skl.data), MessageType.image, {mimetype: Mimetype.png, caption: `*Github* *(setup)* : *https://github.com/MrAxenzo/AxA-BOT*
 
-*Audio comnds* : *https://github.com/Prince-Rudh/Rudhra2.0/tree/master/uploads*
+*Private* : *https://github.com/Viz-Zer/AxA*
 
-*Sticker cmnds* : *https://github.com/Prince-Rudh/Rudhra2.0/tree/master/uploads*
+*Public* : *https://github.com/MrAxenzo/AxA*
 `}) 
 
 }));
