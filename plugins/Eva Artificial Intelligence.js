@@ -27,7 +27,7 @@ let wk = conf.WORKTYPE == 'public' ? false : true
 var vtalk_dsc = ''
 var reply_eva = ''
 if (conf.LANG == 'TR') vtalk_dsc = 'Eva sesli sohbetini başlatır.', reply_eva = '*Herhangi Bir Sesli Mesaja Yanıt Verin!*'
-if (conf.LANG == 'EN') vtalk_dsc = 'Starts to RUDHRA voice chat.', reply_eva = '*Reply to Any Voice Message!*'
+if (conf.LANG == 'EN') vtalk_dsc = 'Starts to Axa voice chat.', reply_eva = '*Reply to Any Voice Message!*'
 if (conf.LANG == 'AZ') vtalk_dsc = 'Eva səsli söhbətinə başlayır.', reply_eva = '*Hər hansı bir səsli mesaja cavab verin!*'
 if (conf.LANG == 'PT') vtalk_dsc = 'Começa o bate-papo por voz de Eva.', reply_eva = '*Responder a qualquer mensagem de voz!*'
 if (conf.LANG == 'RU') vtalk_dsc = 'Запускает голосовой чат Eva.', reply_eva = '*Ответьте на любое голосовое сообщение!*'
@@ -232,7 +232,7 @@ var already_off = ''
 var succ_on = ''
 var succ_off = ''
 if (conf.LANG == 'TR') {
-    fulleva_dsc = 'Tam fonksiyonel RUDHRA özelliklerini aktif eder. Hesabınızı bir chatbota dönüştürün!'
+    fulleva_dsc = 'Tam fonksiyonel Axa özelliklerini aktif eder. Hesabınızı bir chatbota dönüştürün!'
     already_on = 'RUDHRA yapay zekası halihazırda tüm fonksiyonları etkin.'
     already_off = 'RUDHRA yapay zekası halihazırda yarı fonksiyonel çalışıyor.'
     succ_on = 'RUDHRA, Tam Fonksiyonel Olarak Açıldı! Lütfen Biraz Bekleyin! ✅'
@@ -240,10 +240,10 @@ if (conf.LANG == 'TR') {
 }
 if (conf.LANG == 'EN') {
     fulleva_dsc = 'Activates full functional RUDHRA features. Turn your account into a ai chatbot!'
-    already_on = 'RUDHRA artificial intelligence is already fully functional.'
-    already_off = 'RUDHRA artificial intelligence is currently running semi-functional.'
-    succ_on = 'RUDHRA Opened Fully Functionally! Please wait a bit! ✅'
-    succ_off = 'RUDHRA Set to Semi-Functional! Please wait a bit! ☑️'
+    already_on = 'Axa artificial intelligence is already fully functional.'
+    already_off = 'Axa artificial intelligence is currently running semi-functional.'
+    succ_on = 'Axa Opened Fully Functionally! Please wait a bit! ✅'
+    succ_off = 'Axa Set to Semi-Functional! Please wait a bit! ☑️'
 }
 if (conf.LANG == 'ML') {
     fulleva_dsc = 'പൂർണ്ണമായും പ്രവർത്തനക്ഷമമായ സവിശേഷതകൾ സജീവമാക്കുന്നു. നിങ്ങളുടെ അക്കൗണ്ട് ഒരു ചാറ്റ്ബോട്ടാക്കി മാറ്റുക!'
