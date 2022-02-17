@@ -48,7 +48,7 @@ module.exports = {
     BANMSG: process.env.BAN_MESSAGE === undefined ? 'default' : process.env.BAN_MESSAGE,
     BOTSK: process.env.BOT_NAME === undefined ? 'AxA-BOT' : process.env.BOT_NAME,
     LOGOSK: process.env.ALL_IMG === undefined ? 'https://i.imgur.com/NCf11jt.jpeg' : process.env.ALL_IMG,
-    SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://www.instagram.com/princerudh/' : process.env.SOCIAL_MEDIA,
+    SLINK: process.env.SOCIAL_MEDIA === undefined ? 'https://www.instagram.com/axemortalff/' : process.env.SOCIAL_MEDIA,
     TAGPLK: process.env.TAG_HEADER === undefined ? '*Attention please 📢*' : process.env.TAG_HEADER,
     AFKMSG: process.env.AFK_MESSAGE === undefined ? 'default' : process.env.AFK_MESSAGE,
     HANDLERS: process.env.HANDLERS === undefined ? '^[.!;]' : process.env.HANDLERS,
