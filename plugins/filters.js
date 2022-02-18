@@ -147,7 +147,7 @@ Asena.addCommand({on: 'text', fromMe: false}, (async (message, match) => {
     if (!!message.mention && message.mention[0] == '919847475524@s.whatsapp.net') {
 await message.client.sendMessage(message.jid, fs.readFileSync('./sticker/Mm.webp'), MessageType.sticker, { mimetype: Mimetype.webp, quoted : message.data, ptt: false})
     }
-const array = ['Ayyo']
+const array = ['Aaa','Aah','achoda','Adipoli','anne','ano','Axa','Ayyo','baby','back','Boss','bot','Bot','breakup','broken','bye','charge','chathu','Chi','chil','chunk','Come','Cry','Da','Ee','Enike','Entha cheyya','Entha','eshttalla','eshttam','feel','Fek','ff','friend','girl','Girls','Good morning','Good night','gud mrng','Ha','Haa','haha','Happy','hate','Hehe','Hello','Hi','Hlo','Hloo','Hm','Hoi','Hy','I love u','I','Iam','illa','important','Ka','Kozhi','Like you','Like','line','list','Love u too','Love u','Love','Loveu','Lub u','mama','Me','mention','Mind','mindathe','Miss','Mm','morning','muthe','My love','Myre','nanban','Nanbiye','Nee','night','nine','Njan','njn','No','Oh','Ok bie','Ok','on','Oo','Ooo','paat','Padicho','pandaram','pedicho','Pikachu','pinne','Plzz','Po','poda','poli','Police','poliya','poocha','Pova','power','Poyi','remove','Rose','Sad','Save','Sed aayi','Sed','seen','Set','seth','shut','Smile','song','sorry','tag','thech','Tyre','umma','Uyir','Va','Vaa','Veno','yeah','you','Z']
 array.map( async (a) => {
 let pattern = new RegExp(`\\b${a}\\b`, 'g');
 if(pattern.test(message.message)){
