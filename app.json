@@ -8,7 +8,7 @@
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
-        "CONNECTION_CODE": {
+        "AXA_CODE": {
             "description": "Asena session changed! Type your AxA code here.",
             "required": true
         },
@@ -140,7 +140,7 @@
             "value": "false"
         },
         "REMOVE_BG_API_KEY": {
-            "description": "https://remove.bg code👉 mPpurrUYTUeznpWU6Ercz4nu 👈this code for u copy and paste  and enjoy",
+            "description": "https://remove.bg code👉 gmNos3aQJ9xN44VMp5Gm5RaF 👈this code for u copy and paste  and enjoy",
             "required": false
         },
         "ALIVE_MESSAGE": {
