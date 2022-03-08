@@ -1,14 +1,14 @@
 {
-  "name": "AxA-Bot",
+  "name": "LORVID",
   "version": "1.0.0",
   "description": "AxA whatsapp bot provides a bunch of bgms and features to your whatsapp account.",
-  "main": "./AxA/bot.js",
+  "main": "./LOM/bot.js",
   "scripts": {
     "start": "supervisor -s bot.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MrAxenzo/AXA-BOT.git"
+    "url": "git+https://github.com/Yahya910/AXA-BOT.git"
   },
   "keywords": [
     "WhatsApp",
@@ -19,7 +19,7 @@
   "developer": "Prince Rudh / @phaticusthiccy",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/MrAxenzo/AXA-BOT/issues"
+    "url": "https://github.com/Yahya910/AXA-BOT/issues"
   },
   "homepage": "https://github.com/phaticusthiccy/WhatsAsenaDuplicated#readme",
   "dependencies": {
