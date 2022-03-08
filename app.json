@@ -1,15 +1,15 @@
 {
-    "name": "AxA BOT",
-    "description": "AxA - Whatsapp Bot",
+    "name": "BOT LOR",
+    "description": "LOR - Whatsapp Bot",
     "logo": "https://i.imgur.com/iJHLCTz.jpeg",
     "keywords": ["whatsapp", "userbot", "Asena", "WhatsAsena", "bot", "api", "ai"],
-    "repository": "https://github.com/MrAxenzo/AxA-BOT",
+    "repository": "https://github.com/Yahya910/AxA-BOT",
     "website":   "https://t.me/phaticusthiccy",
     "success_url": "https://t.me/AsenaSupport",
     "stack": "container",
     "env": {
         "AXA_CODE": {
-            "description": "Asena session changed! Type your AxA code here.",
+            "description": "Asena session changed! Type your Yahya code here.",
             "required": true
         },
         "SUDO": {
